@@ -7,6 +7,8 @@
 An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 
+## Spedrick's Contribution :
+
 
 
 **Crewmate Roles**
